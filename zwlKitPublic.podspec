@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'zwlKitPublic'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = '这是我自己测试的'
 
 # This description is used to generate tags and improve search results.
@@ -32,7 +32,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '8.0'
   s.requires_arc = true
 
-  s.source_files = 'zwlKitPublic/Classes/**/*'
+  #s.source_files = 'zwlKitPublic/Classes/**/*'
   
   # s.resource_bundles = {
   #   'zwlKitPublic' => ['zwlKitPublic/Assets/*.png']
