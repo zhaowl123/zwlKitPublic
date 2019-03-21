@@ -216,13 +216,13 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-zwlKitPublic_Tests/Pods-zwlKitPublic_Tests-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/zwlKitPublic/zwlKitPublic.framework",
+				"${PODS_ROOT}/../../zwlKitPublic/zwlKit.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/zwlKitPublic.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/zwlKit.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

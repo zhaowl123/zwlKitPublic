@@ -1,0 +1,6 @@
+framework module zwlKitPublic {
+  umbrella header "zwlKitPublic-umbrella.h"
+
+  export *
+  module * { export * }
+}

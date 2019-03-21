@@ -1,0 +1,16 @@
+PODS:
+  - zwlKitPublic (1.0.0)
+
+DEPENDENCIES:
+  - zwlKitPublic (from `../`)
+
+EXTERNAL SOURCES:
+  zwlKitPublic:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  zwlKitPublic: 646832275a097995c93a19735ac031e06dffa64a
+
+PODFILE CHECKSUM: f283c7fe452f90e9d9dc2e60f71a83ab211fc85f
+
+COCOAPODS: 1.6.1
