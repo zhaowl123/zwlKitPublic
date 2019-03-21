@@ -1,0 +1,6 @@
+use_frameworks!
+target 'zwlKitPublic_Tests' do
+  pod 'zwlKitPublic', :path => '../'
+  
+  
+end
